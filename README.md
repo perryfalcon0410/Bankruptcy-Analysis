@@ -20,11 +20,11 @@ The dataset includes the following columns:
 - **Bankruptcy Status**: Binary column indicating whether a company went bankrupt (1) or not (0).
 - **Date Range**: The data covers a 10-year span from 1999 to 2009.
 
-### Detailed Data Structure
+### Detailed Data Structure:
 
-#### Class Label
+#### Class Label:
 - **Y**: Bankrupt?
-#### Features
+#### Features:
 - **X1**: ROA(C) before interest and depreciation before interest: Return On Total Assets (C)
 - **X2**: ROA(A) before interest and % after tax: Return On Total Assets (A)
 - **X3**: ROA(B) before interest and depreciation after tax: Return On Total Assets (B)
@@ -144,7 +144,15 @@ The following tools and technologies were used in the analysis:
 ## f. Hypotheses Based on Insights:
 1. **Companies with higher liabilities relative to assets** are more likely to declare bankruptcy, especially in times of economic downturns.
 2. **Industries that rely on rapid technological advancements**, like tech companies, are more susceptible to bankruptcy in times of economic bubbles (e.g., Dotcom Bubble).
-3. **Cash flow problems** can serve as an early indicator of bankruptcy, even if a company has substantial assets.
+
+## g. Project Details:
+
+For a detailed breakdown of the analysis, please refer to the project notebook available at the following link:
+
+[Bankruptcy_Analysis.ipynb](https://github.com/perryfalcon0410/Bankruptcy-Analysis/blob/main/Bankruptcy_Analysis.ipynb)
+
+  
+4. **Cash flow problems** can serve as an early indicator of bankruptcy, even if a company has substantial assets.
 
 ## g. Recommendations Based on Analysis Results:
 1. **For Businesses**: Focus on maintaining a healthy balance of assets and liabilities to safeguard against economic downturns. Prioritize improving cash flow management.
