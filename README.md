@@ -54,7 +54,6 @@ pip install scikit-learn==1.1.3
 
 ## Project Details
 
-For a detailed breakdown of the analysis, please refer to the project notebook available at the following link:
-
+For a detailed breakdown of the analysis, please refer to the project notebook available in:
 [Bankruptcy_Analysis.ipynb](https://github.com/perryfalcon0410/Bankruptcy-Analysis/blob/main/Bankruptcy_Analysis.ipynb)
 
