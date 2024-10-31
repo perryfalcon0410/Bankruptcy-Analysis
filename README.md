@@ -143,18 +143,16 @@ The following tools and technologies were used in the analysis:
 
 ## f. Hypotheses Based on Insights:
 1. **Companies with higher liabilities relative to assets** are more likely to declare bankruptcy, especially in times of economic downturns.
-2. **Industries that rely on rapid technological advancements**, like tech companies, are more susceptible to bankruptcy in times of economic bubbles (e.g., Dotcom Bubble).
-
-## g. Project Details:
-
-For a detailed breakdown of the analysis, please refer to the project notebook available at the following link:
-
-[Bankruptcy_Analysis.ipynb](https://github.com/perryfalcon0410/Bankruptcy-Analysis/blob/main/Bankruptcy_Analysis.ipynb)
-
-  
-4. **Cash flow problems** can serve as an early indicator of bankruptcy, even if a company has substantial assets.
+2. **Industries that rely on rapid technological advancements**, like tech companies, are more susceptible to bankruptcy in times of economic bubbles (e.g., Dotcom Bubble).  
+3. **Cash flow problems** can serve as an early indicator of bankruptcy, even if a company has substantial assets.
 
 ## g. Recommendations Based on Analysis Results:
 1. **For Businesses**: Focus on maintaining a healthy balance of assets and liabilities to safeguard against economic downturns. Prioritize improving cash flow management.
 2. **For Investors**: Diversify portfolios across industries and carefully monitor companies' financial ratios, especially liabilities-to-assets and working capital trends.
 3. **For Policymakers**: Implement financial stress tests in highly volatile industries, such as tech, to pre-emptively identify at-risk companies and intervene where necessary.
+
+## h. Project Details:
+
+For a detailed breakdown of the analysis, please refer to the project notebook available at the following link:
+
+[Bankruptcy_Analysis.ipynb](https://github.com/perryfalcon0410/Bankruptcy-Analysis/blob/main/Bankruptcy_Analysis.ipynb)
