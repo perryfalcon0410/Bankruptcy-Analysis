@@ -133,7 +133,6 @@ The following tools and technologies were used in the analysis:
   - `matplotlib` & `seaborn`: For data visualization.
   - `scikit-learn`: For machine learning and predictive modeling.
   - `ppscore`: For feature importance scoring.
-  - `lime`: For interpreting model predictions.
   - `lazypredict`: For rapid prototyping of machine learning models.
 
 ## e. Key Insights Discovered:
