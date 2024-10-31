@@ -14,11 +14,8 @@ The dataset used in this project was sourced from the **Taiwan Economic Journal*
 ## c. Data Overview:
 ### Data Structure:
 The dataset includes the following columns:
-- **Company Name**: The name of the company.
-- **Industry**: The industry to which the company belongs.
 - **Financial Indicators**: Metrics such as total assets, liabilities, working capital, and revenue, etc.
 - **Bankruptcy Status**: Binary column indicating whether a company went bankrupt (1) or not (0).
-- **Date Range**: The data covers a 10-year span from 1999 to 2009.
 
 ### Detailed Data Structure:
 
