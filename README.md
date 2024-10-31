@@ -52,4 +52,9 @@ pip install scikit-learn==1.1.3
    - Summarize the key findings from the analysis.
    - Highlight the most important risk factors for predicting company bankruptcy.
 
-The detail of the project is in
+## Project Details
+
+For a detailed breakdown of the analysis, please refer to the project notebook available at the following link:
+
+[Bankruptcy_Analysis.ipynb](https://github.com/perryfalcon0410/Bankruptcy-Analysis/blob/main/Bankruptcy_Analysis.ipynb)
+
